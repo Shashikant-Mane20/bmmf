@@ -21,11 +21,10 @@ const Footer = () => {
           <div>
             <h3 className="text-[#FFB422] font-bold text-lg mb-4">About Us</h3>
             <p className="text-sm mb-4">
-              Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expet endis in.
-              Meinan an pericula.
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste facilis magni fuga tenetur alias quis nemo in velit voluptate optio minima perspiciatis a, impedit culpa sunt omnis corporis molestiae ducimus?
             </p>
-            <p className="text-sm">Call us: +615 4640 3304</p>
-            <p className="text-sm">Visit us: 2976 Washington St San Francisco, CA 94115</p>
+            <p className="text-sm">Call us: +91 7276162374</p>
+            <p className="text-sm">Plot No.112, 112, Kishor Suryawanshi Marg, Road, Omkar Nagar, Nashik, Maharashtra 422004</p>
           </div>
 
           {/* Latest Posts Section */}
@@ -111,7 +110,8 @@ const Footer = () => {
             <h3 className="text-[#FFB422] font-bold text-lg mb-4">Location</h3>
             <iframe
               className="w-full h-40 md:h-32"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.838434509377!2d-122.43762978468184!3d37.7749292797598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858064d4d7c4f7%3A0x2100dfd5eae9a6bc!2s2976%20Washington%20St%2C%20San%20Francisco%2C%20CA%2094115%2C%20USA!5e0!3m2!1sen!2sin!4v1694620149850!5m2!1sen!2sin"
+            //   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.838434509377!2d-122.43762978468184!3d37.7749292797598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858064d4d7c4f7%3A0x2100dfd5eae9a6bc!2s2976%20Washington%20St%2C%20San%20Francisco%2C%20CA%2094115%2C%20USA!5e0!3m2!1sen!2sin!4v1694620149850!5m2!1sen!2sin"
+             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4135.394562566578!2d73.7944500711296!3d20.045581520751032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeb4111082a17%3A0x3702085e303430a5!2sBirsa%20Munda%20Medical%20Hub%20-%20Best%20Multispecialty%20Hospital%20In%20Nashik%20%7C%20Best%20Low%20Cost%20Hospital%20in%20Nashik!5e1!3m2!1sen!2sus!4v1732705593839!5m2!1sen!2sus"
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
